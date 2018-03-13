@@ -9,14 +9,12 @@
 
 [![react-simple-tooltip](https://nodei.co/npm/microtip-react.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/microtip-react)
 
-&nbsp;
 ## Installation
 
 **via npm**
 ```shell
 npm install microtip-react --save
 ```
-&nbsp;
 ## Usage
 
 ### Attached to a Component
