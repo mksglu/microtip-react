@@ -1,10 +1,5 @@
 # microtip-react
 
-[![npm package][npm-badge]][npm]
-[![Travis][build-badge]][build]
-[![Codecov][codecov-badge]][codecov]
-![Module formats][module-formats]
-
 ## Getting started
 
 [![react-simple-tooltip](https://nodei.co/npm/microtip-react.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/microtip-react)
