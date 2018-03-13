@@ -28,7 +28,7 @@ const App = () => (
         fontWeight="bold"
         textTransform="capitalize"
         >
-        <button>Selam</button>
+        <button>My Button</button>
     </Tooltip>
 )
 ```
