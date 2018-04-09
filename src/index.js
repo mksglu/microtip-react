@@ -34,7 +34,6 @@ class Tooltip extends Component {
           ...Styles.delay,
           ...Styles.duration,
           ...Styles.fontSize,
-          ...Styles.duration,
           ...Styles.fontWeight,
           ...Styles.textTransform
         }}
@@ -52,8 +51,7 @@ class Tooltip extends Component {
     delay: PropTypes.string,
     fontSize: PropTypes.string,
     fontWeight: PropTypes.string,
-    textTransform: PropTypes.string,
-    label: PropTypes.string
+    textTransform: PropTypes.string
   }
   static defaultProps = {
     label: "Simple Tooltip for React!",
