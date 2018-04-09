@@ -6,7 +6,7 @@
 
 ## Demo
 
-[Try it out](https://frozen-depths-40634.herokuapp.com/)
+[Try it out](https://stark-shore-89144.herokuapp.com/)
 
 ![Alt Text](https://thumbs.gfycat.com/SophisticatedDependableFlycatcher-size_restricted.gif)
 
