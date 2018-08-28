@@ -67,3 +67,8 @@ export default App
 | delay         | PropTypes.string | The delay on hover before showing the tooltip                                                                 | `0s`     |
 | fontWeight    | PropTypes.string | The font weight of the text in tooltip                                                                        | `normal` |
 | textTransform | PropTypes.string | Controls the casing of the text                                                                               | `none`   |
+
+## Credits
+
+[Microtip CSS Tooltip Library](https://github.com/ghosh/microtip)
+
